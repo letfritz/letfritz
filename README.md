@@ -1,4 +1,6 @@
-## Olá! Eu sou Letícia Fritz 😊
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC56D5&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC56D5&center=true&vCerter=true&lines=Olá!+Eu+sou+Letícia+Fritz;Hello!+I'm+Letícia+Fritz)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-fritz/)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://lattes.cnpq.br/1524131493013313)
@@ -26,3 +28,5 @@ Apaixonada por transformação digital e novas tecnologias!
 
 ### Currículo
 Trabalha na área de Mercado de Energia na Energisa. Possui graduação em Engenharia Elétrica pela Universidade Federal Fluminense (2018), mestrado em Engenharia Elétrica e de Telecomunicações na Universidade Federal Fluminense (2020). Atualmente cursa doutorado em Sistemas de Energia Elétrica pela Universidade Federal de Juiz de Fora, na área de análise de redes, com ênfase em recursos energéticos distribuídos e redes inteligentes. Possui pesquisa nas seguintes áreas: resposta a demanda, geração distribuída, veículo elétrico, tecnologia concentradora fotovoltaica/térmica, sistema de trigeração, modelagem de redes e otimização matemática.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AC56D5&height=120&section=footer"/>
