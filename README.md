@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticia.fritz/)
 
 ![Fritz GitHub stats](https://github-readme-stats.vercel.app/api?username=letfritz&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letfritz)](https://github.com/letfritz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letfritz&layout=compact)
 
 ### Tecnologias de interesse
 <div style="display: inline_block"><br/>
