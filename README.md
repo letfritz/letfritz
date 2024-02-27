@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá! Eu sou Letícia Fritz 😊
 
-<!--
-**letfritz/letfritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-fritz/)
+[![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://lattes.cnpq.br/1524131493013313)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fritz.leticia)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leticiafritz9357)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticia.fritz/)
 
-Here are some ideas to get you started:
+![Fritz GitHub stats](https://github-readme-stats.vercel.app/api?username=letfritz&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias de interesse
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img align="center" alt="raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+</div><br/>
+
+Apaixonada por transformação digital e novas tecnologias!
+
+### Currículo
+Trabalha na área de Mercado de Energia na Energisa. Possui graduação em Engenharia Elétrica pela Universidade Federal Fluminense (2018), mestrado em Engenharia Elétrica e de Telecomunicações na Universidade Federal Fluminense (2020). Atualmente cursa doutorado em Sistemas de Energia Elétrica pela Universidade Federal de Juiz de Fora, na área de análise de redes, com ênfase em recursos energéticos distribuídos e redes inteligentes. Possui pesquisa nas seguintes áreas: resposta a demanda, geração distribuída, veículo elétrico, tecnologia concentradora fotovoltaica/térmica, sistema de trigeração, modelagem de redes e otimização matemática.
