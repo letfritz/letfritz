@@ -42,9 +42,6 @@ Passionate about digital transformation and new technologies!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-fritz/)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://lattes.cnpq.br/1524131493013313)
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fritz.leticia)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leticiafritz9357)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticia.fritz/)
 
 ### Curriculum
 Works in the Energy Market area at Energisa. He has a degree in Electrical Engineering from the Universidade Federal Fluminense (2018), a master's degree in Electrical and Telecommunications Engineering from the Universidade Federal Fluminense (2020). He is currently studying for a PhD in Electrical Energy Systems at the Federal University of Juiz de Fora, in the area of ​​network analysis, with an emphasis on distributed energy resources and smart grids. He has research in the following areas: demand response, distributed generation, electric vehicles, photovoltaic/thermal concentrator technology, trigeneration system, network modeling and mathematical optimization.
